@@ -1,7 +1,7 @@
 # Privacy & Data Usage Policy  
 **Nominis Custom GPTs**
 
-_Last updated: [insert date]_
+_Last updated: Deceember 18th, 2025
 
 This page explains how data is handled when using Nominis-operated Custom GPTs available via the public GPT Store. It outlines what information is processed, how it is used, and what is not collected or retained.
 
@@ -162,5 +162,5 @@ The “Last updated” date will reflect the most recent revision.
 
 For privacy or data-handling inquiries:
 
-**Email:** privacy@nominis.io  
+**Email:** support@nominis.io  
 **Website:** https://nominis.io
